@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/google/pybadges.svg?style=svg)](https://circleci.com/gh/google/pybadges)
+[![CI](https://github.com/ProsePal/py-badge/workflows/CI/badge.svg)](https://github.com/ProsePal/py-badge/actions/workflows/ci.yml)
 ![pypi](https://img.shields.io/pypi/v/pybadges.svg)
 ![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
    

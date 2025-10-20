@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Original Repository
+    url: https://github.com/google/pybadges
+    about: View the original pybadges repository
+  - name: Documentation
+    url: https://github.com/ProsePal/py-badge/blob/main/README.md
+    about: Read the documentation

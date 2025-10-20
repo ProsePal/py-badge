@@ -1,0 +1,14 @@
+# Code owners for py-badge
+# These owners will be automatically requested for review when someone opens a pull request
+
+# Default owners for everything in the repo
+* @ashrobertsdragon
+
+# Workflow files
+/.github/ @ashrobertsdragon
+
+# Core library code
+/pybadges/ @ashrobertsdragon
+
+# Tests
+/tests/ @ashrobertsdragon
